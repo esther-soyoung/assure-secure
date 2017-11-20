@@ -13,7 +13,7 @@ WORK IN PROGRESS
 - [Demonstration](# Demonstration)
 
 # Team Members
-- Esther Kang @esther-star
+- Esther Soyoung Kang @esther-soyoung
 - Antony Nguyen @eminguyen
 - Jianing Zhang @johnnyzhang123
 
