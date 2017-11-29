@@ -6,16 +6,16 @@ IEEE Quarterly Project Fall 2017 - Home Automation
 
 ## Table of Contents
 - [Team Members](https://github.com/eminguyen/home-security-system#team-members)
-- [Purpose and Idea] (https://github.com/eminguyen/home-security-system#purpose-and-idea)
-- [Parts] (https://github.com/eminguyen/home-security-system#parts)
+- [Purpose and Idea](https://github.com/eminguyen/home-security-system#purpose-and-idea)
+- [Parts](https://github.com/eminguyen/home-security-system#parts)
 - [Explanation](https://github.com/eminguyen/home-security-system#explanation)
 - [Demonstration](https://github.com/eminguyen/home-security-system#demonstration)
 - [Additional Credit](https://github.com/eminguyen/home-security-system#additional-credit)
 
 ## Team Members
 - [Esther Soyoung Kang](https://github.com/esther-soyoung)
-- [Antony Nguyen] (https://github.com/eminguyen)
-- [Jianing Zhang] (https://github.com/johnnyzhang123)
+- [Antony Nguyen](https://github.com/eminguyen)
+- [Jianing Zhang](https://github.com/johnnyzhang123)
 
 ## Purpose and Idea
 The theme for this quarter's IEEE project was to create a home automation device. 
