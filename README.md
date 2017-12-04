@@ -1,8 +1,5 @@
-# Arduino Home Security System
-IEEE Quarterly Project Fall 2017 - Home Automation
-
-- A home security device developed for IEEE UCSD's Fall 2017 Quarterly Project.
-- WORK IN PROGRESS
+# Assure Secure - A Keyless Entry Security System
+IEEE Quarterly Project Fall 2017 - FIRST PLACE WINNER
 
 ## Table of Contents
 - [Team Members](https://github.com/eminguyen/home-security-system#team-members)
@@ -13,9 +10,9 @@ IEEE Quarterly Project Fall 2017 - Home Automation
 - [Additional Credit](https://github.com/eminguyen/home-security-system#additional-credit)
 
 ## Team Members
-- [Esther Soyoung Kang](https://github.com/esther-soyoung)
-- [Antony Nguyen](https://github.com/eminguyen)
-- [Jianing Zhang](https://github.com/johnnyzhang123)
+- [Esther Soyoung Kang](https://github.com/esther-soyoung) - Code / Mechanical Design
+- [Antony Nguyen](https://github.com/eminguyen) - Code / Mechanical Design
+- [Jianing Zhang](https://github.com/johnnyzhang123) - Hardware / Mechanical Design
 
 ## Purpose and Idea
 The theme for this quarter's IEEE project was to create a home automation device. 
@@ -24,12 +21,12 @@ The theme for this quarter's IEEE project was to create a home automation device
 Our group decided to pursue development of a home security system.
 We wanted to develop something that was simple but useful and convenient.
 We avoided fancy features like voice control, number pads, phone applications.
-Instead, we simply made it so you can unlock the door with the tap of your phone.
+Instead, we simply made it so you can unlock the door with the tap of an NFC tag.
 <br />
 <br />
-This idea behind this system is to automate the home by locking the door upon the user
-exiting the house. The user can then use his/her phone or an NFC card to unlock the
-door.
+This idea behind this system is to automate the home by creating a keyless entry system.
+You can unlock a door by scanning an NFC tag and it will automatically relock once the door is closed.
+It creates an efficient form of entry.
 
 ## Parts
 1. Arduino
@@ -61,8 +58,11 @@ We have divided the code into three parts - servo code, Ultrasonic sensor code, 
 - If the proper one is used, a green light will flash and the door will unlock.
 
 ## Demonstration
-Video will be added once project is complete
+- [Basic Functionality](https://youtu.be/NeMNWZ8lvp8)
+- [NFC Denied](https://youtu.be/ru8mSP7Ndqg)
+- [Front View](https://youtu.be/aLkNH8MQNwY)
 
-## Additional Credit
+## Additional Credit / Special Thanks
+- [IEEE UCSD for hosting the competition](https://www.facebook.com/ieeeucsd/)
+- [UCSD ECE Department for sponsorship](http://www.ece.ucsd.edu/)
 - [Miguel Balboa for his RFID Library](https://github.com/miguelbalboa/rfid)
-- IEEE & UCSD for sponsorship
