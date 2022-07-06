@@ -58,9 +58,9 @@ We have divided the code into three parts - servo code, Ultrasonic sensor code, 
 - If the proper one is used, a green light will flash and the door will unlock.
 
 ## Demonstration
-- [Basic Functionality](https://youtu.be/NeMNWZ8lvp8)
-- [NFC Denied](https://youtu.be/ru8mSP7Ndqg)
-- [Front View](https://youtu.be/aLkNH8MQNwY)
+- [Basic Functionality](https://youtu.be/NeMNWZ8lvp8): https://youtu.be/NeMNWZ8lvp8
+- [NFC Denied](https://youtu.be/ru8mSP7Ndqg): https://youtu.be/ru8mSP7Ndqg
+- [Front View](https://youtu.be/aLkNH8MQNwY): https://youtu.be/aLkNH8MQNwY
 
 ## Additional Credit / Special Thanks
 - [IEEE UCSD for hosting the competition](https://www.facebook.com/ieeeucsd/)
